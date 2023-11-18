@@ -1,14 +1,14 @@
 #### Parameters
 
-$keyvaultname = "xxxxx"
-$location = "xxxxx"
-$keyvaultrg = "xxxxxx"
-$sshkeysecret = "xxxxx"
-$spnclientid = "xxxxxx"
-$clientidkvsecretname = "xxxxxx"
-$spnclientsecret = "xxxxxx"
-$spnkvsecretname = "xxxxx"
-$spobjectID = "xxxxx"
+$keyvaultname = "aksdemocluster00-kv"
+$location = "eastus"
+$keyvaultrg = "aksdemo-rg"
+$sshkeysecret = "akssshpubkey"
+$spnclientid = "d6b599c7-3e1d-4049-922a-bf4d24be5c55"
+$clientidkvsecretname = "spn-id"
+$spnclientsecret = "Dbv8Q~oTi3-ec-PnleXFWixfBqxs3l0Oc_6Sub~w"
+$spnkvsecretname = "son-secret"
+$spobjectID = "5dcb43ba-9b9a-4312-9a09-d273738e60d4"
 $userobjectid = "xxxxx"
 
 
