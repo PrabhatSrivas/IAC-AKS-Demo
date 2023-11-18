@@ -23,4 +23,5 @@ steps:
   displayName: Terraform Plan
   inputs:
     command: 'plan'
+    environmentServiceName: 'ServConnection'
     allowTelemetryCollection: false
